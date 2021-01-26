@@ -17,11 +17,14 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
+0.0.0.0 i.ibb.co
+0.0.0.0 85.114.138.56/iklan
+0.0.0.0 cdn.shortpixel.ai
 0.0.0.0 xml.realtime-bid.com
 0.0.0.0 xml.mobipromote.com
 0.0.0.0 anon.wapsite.info
 0.0.0.0 i1.wp.com
-0.0.0.0	3g.qq.com
+0.0.0.0 3g.qq.com
 0.0.0.0	a01.uadexchange.com
 0.0.0.0	abrts.pro
 0.0.0.0	aclickads.com
